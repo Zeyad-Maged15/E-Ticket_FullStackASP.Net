@@ -1,1 +1,1 @@
-E-Ticket project by Full Stack ASP .Net with connection to SQL database and microsoft packages. The project displays a table with ID, Profile Picture, Name and Biography.
+E-Ticket project by Full Stack ASP .Net with connection to SQL database and microsoft packages. The project displays a table with ID, Profile Picture, Name and Biography to the actors and displays with good view in the website that you can know more about them.
